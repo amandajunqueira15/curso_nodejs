@@ -10,3 +10,5 @@ const profissao = args['profissao'];
 console.log(nome, profissao);
 
 console.log(`O nome dela é ${nome} e a profissão dela é ${profissao}`);
+
+// Executando: node index.js --nome=Amanda --profissao=Desenvolvedora

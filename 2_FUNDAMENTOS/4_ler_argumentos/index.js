@@ -14,3 +14,5 @@ const idade = args[1].split('=')[1];
 console.log(idade);
 
 console.log(`O nome dela é ${nome} e ela tem ${idade} anos!`);
+
+// Executando: node .\index.js nome=amanda idade=32

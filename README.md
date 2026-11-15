@@ -5,6 +5,8 @@
 ## Modules
 
 - Module 01 - Introduction;
+- Module 02 - Fundamentals;
+- Module 03 - Node Core Modules in practice;
 
 ## Note:
 
